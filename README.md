@@ -1,12 +1,16 @@
-<p align="center"><img align="center" width="200" height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQFY5d0r8QMR4g/profile-displayphoto-shrink_800_800/B4DZRC2wfnG4Ac-/0/1736288438819?e=1741824000&v=beta&t=oZD7L1ka_M7xY0rwU24W9niMWWNPNfJt_Jp-ugp0jWg" /></p>
 <div align="center">
- <a href="https://github.com/hobbycoder-90">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ümit+Aşan+%e2%9c%a8;%f0%9f%93%9a+Backend+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
+  <img height="200" src="https://avatars.githubusercontent.com/u/193884814?v=4"  />
 </div>
 
-<img src="https://github.com/hobbycoder-90/hobbycoder-90/blob/main/img/EatCoffeeCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hobbycoder-90/count.svg?"  />
+</div>
+
+###
+<div aling="center">
+ 
 <h1 align="center">Hi 👋, I'm hobbycoder-90</h1>
 <h3 align="center">A passionate backend developer from Turkeyurkey</h3>
 
@@ -22,16 +26,72 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/umit-ashan-003756249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umit ashan" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hobbycoder-90&show_icons=true&locale=en&layout=compact" alt="hobbycoder-90" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="49" alt="python logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="49" alt="fastapi logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="49" alt="sqlalchemy logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="49" alt="c logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="css3 logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="49" alt="gcc logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="49" alt="postgresql logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="49" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="49" alt="vscode logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="49" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="49" alt="redis logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="49" alt="sqlite logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="49" alt="grafana logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="49" alt="prometheus logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="49" alt="pytest logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hobbycoder-90&show_icons=true&locale=en" alt="hobbycoder-90" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hobbycoder-90&" alt="hobbycoder-90" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hobbycoder-90&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hobbycoder-90&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/profile.php?id=100003740673498&locale=tr_TR" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/umit-ashan-003756249/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31r2zwkl5knof6sl533wzjprplye">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r2zwkl5knof6sl533wzjprplye&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/hobbycoder-90/hobbycoder-90/output/snake.svg" alt="Snake animation" />
+
+###
+
