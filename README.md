@@ -87,14 +87,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31r2zwkl5knof6sl533wzjprplye">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r2zwkl5knof6sl533wzjprplye&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/hobbycoder-90/hobbycoder-90/output/snake.svg" alt="Snake animation" />
 
 ###
