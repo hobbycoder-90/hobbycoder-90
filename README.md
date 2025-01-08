@@ -1,5 +1,4 @@
 <p align="center"><img align="center" width="200" height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQFY5d0r8QMR4g/profile-displayphoto-shrink_800_800/B4DZRC2wfnG4Ac-/0/1736288438819?e=1741824000&v=beta&t=oZD7L1ka_M7xY0rwU24W9niMWWNPNfJt_Jp-ugp0jWg" /></p>
-
 <div align="center">
  <a href="https://github.com/hobbycoder-90">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ümit+Aşan+%e2%9c%a8;%f0%9f%93%9a+Backend+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
